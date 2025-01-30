@@ -110,3 +110,7 @@ Modify the following parameters in `ray_tracer.py`:
 -    Sphere Position (SPHERE_POS)
 -    Light Source (LIGHT_POS)
 -    Color Intensity (`shade()` function in `fast_raytrace.c`)
+
+---
+
+> Built off of "https://github.com/CPScript/fx-CG50_RayTracer"
